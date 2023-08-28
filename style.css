@@ -1,0 +1,78 @@
+/* h1 {
+    color: rgba(210, 105, 30, 0.5);
+    color: chocolate;
+    opacity: 0.5;
+}
+
+.title {
+    color: red;
+}
+
+#simpleID {
+    color: blue;
+}
+
+[attr] {
+    color: aqua;
+}
+
+.text {
+    color: skyblue;
+} */
+
+/* div {
+    background-color: rebeccapurple;
+    
+    border-color: rgb(0, 102, 255);
+    
+    border-radius: 50px;
+} */
+
+.block {
+    width: 500px;
+    height: 500px;
+    background-color: indianred;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: lightseagreen;
+
+    margin: 100px auto;
+}
+
+.box {
+    width: 75px;
+    height: 75px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: bisque;
+
+    font-size: 25px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.box.box_1 {
+    background-color: forestgreen;
+}
+
+.box.box_2 {
+    background-color: lightcoral;
+}
+
+.box.box_3 {
+    background-color: deeppink;
+}
+
+.box.box_4 {
+    background-color: dodgerblue;
+}
+
+
+.block {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
